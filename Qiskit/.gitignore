@@ -1,0 +1,24 @@
+
+__pycache__/
+.cache/
+
+# ignores any checkpoints folder anywhere
+.ipynb_checkpoints/
+
+# editor files
+.vscode/
+.idea/
+
+# Distribution / packaging
+*.egg-info/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+.DS_Store
+
+.stestr/
+
+_build/
+.tox/
